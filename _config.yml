@@ -1,18 +1,18 @@
 # Site settings
-title: A blog about lorem ipsum dolor sit amet
-description: A blog about lorem ipsum dolor sit amet
+title: C.V
+description: currículum
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Eduardo D. Napierala
+username: Eduardo Napierala
 user_description: “soy bueno para oir y obtener el núcleo de una historia rápidamente haciendo la pregunta correcta”
 user_title: Diseñador Gráfico Publicitario
 email: ideonapi@gmail.com.com
-twitter_username: lorem_ipsum
+# twitter_username: lorem_ipsum
 github_username:  Github.com/ideoeduardo
 # gplus_username:  lorem_ipsum
-Instagram_username:  lorem_ipsum
+# Instagram_username:  lorem_ipsum
 
 # Google-analytics
 google-analytics:
